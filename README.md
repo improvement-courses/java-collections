@@ -1,2 +1,2 @@
-# java-collections
+# Java Collections
 API de Collections do Java
